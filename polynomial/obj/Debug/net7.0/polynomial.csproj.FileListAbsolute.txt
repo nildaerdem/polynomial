@@ -1,0 +1,15 @@
+/Users/apple/Projects/polynomial/polynomial/bin/Debug/net7.0/polynomial
+/Users/apple/Projects/polynomial/polynomial/bin/Debug/net7.0/polynomial.deps.json
+/Users/apple/Projects/polynomial/polynomial/bin/Debug/net7.0/polynomial.runtimeconfig.json
+/Users/apple/Projects/polynomial/polynomial/bin/Debug/net7.0/polynomial.dll
+/Users/apple/Projects/polynomial/polynomial/bin/Debug/net7.0/polynomial.pdb
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/polynomial.csproj.AssemblyReference.cache
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/polynomial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/polynomial.AssemblyInfoInputs.cache
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/polynomial.AssemblyInfo.cs
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/polynomial.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/polynomial.dll
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/refint/polynomial.dll
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/polynomial.pdb
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/polynomial.genruntimeconfig.cache
+/Users/apple/Projects/polynomial/polynomial/obj/Debug/net7.0/ref/polynomial.dll
